@@ -1,0 +1,67 @@
+body {
+	
+}
+
+header {
+	height: 80px;
+	background: skyblue;
+}
+
+.logo{
+	width: 80px;
+	padding-top: 10px;
+	padding-left: 5px;
+}
+
+nav ul{
+	float: right;
+	padding: 20px;
+}
+
+nav ul li{
+	display: inline-block;
+}
+
+nav ul li a{
+	padding: 10px;
+	color: white;
+	text-transform: uppercase;
+}
+
+.splash{
+width: 100%;
+height: 100vh;
+background: url(../images/fondoo.jpg);
+backgound size: cover;
+}
+
+
+h1 {
+		background: none;
+		display: inline;
+	}
+	p{
+		background: none;
+	}
+	a{
+		background: none;
+	}
+
+	.Card{
+		background: lightpink;
+		border: solid 1px lightpink;
+		width: 400px;
+		height: 200px;
+		border border-radius: 18px;
+		padding: 30px;
+		margin-left: 10px;
+		float: left;
+		box-sizing: content-box;
+		display: inline-block;
+
+	}
+
+	img{
+		width: 20px;
+		}
+	
